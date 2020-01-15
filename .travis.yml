@@ -8,4 +8,5 @@ install:
 
 # command to run tests
 script:
-  - pytest --cov=./
+  #- pytest --cov=./
+  - python test_base_file.py
