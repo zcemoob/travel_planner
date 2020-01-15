@@ -1,5 +1,4 @@
 language: python
-os: windows
 python:
   - "3.7"
   - "3.8"
@@ -10,8 +9,7 @@ install:
 # command to run tests
 script:
   #- pytest #--cov=./
-  - python
-  #python test_base_file.py
+  - python test_base_file.py
   #pytest test_base_file.py
 
   #trying to setup travis
