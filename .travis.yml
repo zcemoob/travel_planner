@@ -9,6 +9,8 @@ install:
 # command to run tests
 script:
   #- pytest #--cov=./
-  python
+  - python
   #python test_base_file.py
   #pytest test_base_file.py
+
+  #trying to setup travis
