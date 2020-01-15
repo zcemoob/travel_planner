@@ -1,6 +1,6 @@
 import math
 import numpy as np
-import matplotlib
+#import matplotlib
 import matplotlib.pyplot as plt
 import csv
 #The code generates a timetable a for bus route & calculates journey paths & travel times for a set of passengers
