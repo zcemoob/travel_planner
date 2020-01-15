@@ -8,6 +8,6 @@ install:
 
 # command to run tests
 script:
-  - pytest test_base_file.py
+  - pytest #test_basefile.py
 
   #trying to setup travis
